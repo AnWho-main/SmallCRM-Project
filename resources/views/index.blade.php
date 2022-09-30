@@ -45,7 +45,7 @@
 
 <a href="{{url('/')}}/employees">
 <div class="d-grid gap-2 col-6 mx-auto">
-<button class="btn btn-info" type="button">Employees Details</button>
+<button class="btn btn-info" type="button">Employees Details :-</button>
 </div></a>
 </div>
 
